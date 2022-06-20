@@ -57,5 +57,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkOfficial
+Developer : @CyniteOfficial
     """
