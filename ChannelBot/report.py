@@ -13,7 +13,7 @@ async def _manage(_, msg):
     await msg.reply(
         how,
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton('Support Group', url='https://t.me/CyniteBots')]
+            [InlineKeyboardButton('Support', url='https://t.me/CyniteOfficial')]
         ]),
         quote=True
     )
