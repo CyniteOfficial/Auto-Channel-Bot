@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/harmanharinau/channelmanager",
+  "repository": "https://github.com/CyniteOfficial/Auto-Channel-Bot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
